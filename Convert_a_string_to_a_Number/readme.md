@@ -7,6 +7,9 @@ Note: Don't worry, all inputs will be strings, and every string is a perfectly v
 Examples
 
 "1234" --> 1234
+
 "605"  --> 605
+
 "1405" --> 1405
+
 "-7" --> -7
